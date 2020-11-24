@@ -16,4 +16,4 @@ Estructuras utilizadas:
 
 Estructuras dinámicas para agregar productos, mostrarlos y comprar según por medio de categorías previamente almacenadas en el programa
 
-Colas con la libreria <deque>
+Colas con la libreria deque
